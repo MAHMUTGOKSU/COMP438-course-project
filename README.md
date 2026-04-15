@@ -4,4 +4,7 @@ Reinforcement learning course project paper
 ## Project PDF
 [View the project paper](./Comp438_Final.pdf)
 
-> Note: GitHub will open the PDF in the browser when the link is clicked.
+## Progress Report
+[View the progress report](./Comp438_Progress-2.pdf)
+
+> Note: GitHub will open the PDFs in the browser when the links are clicked.
